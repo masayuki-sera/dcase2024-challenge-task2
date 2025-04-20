@@ -54,3 +54,32 @@ https://dcase.community/challenge2024/task-first-shot-unsupervised-anomalous-sou
 
 ## ベースライン
 https://github.com/nttcslab/dcase2023_task2_baseline_ae
+
+## スコア
+### ToyCar
+- baseline: 50.37
+- top: 63.45
+
+### ToyTrain
+- baseline: 61.77
+- top: 70.37
+
+### Bearing
+- baseline: 61.70
+- top: 73.39
+
+### Fan
+- baseline: 61.47
+- top: 65.41
+
+### Gearbox
+- baseline: 69.87
+- top: 76.93
+
+### Slider
+- baseline: 61.26
+- top: 88.50
+
+### Valve
+- baseline: 48.66
+- top: 81.93
